@@ -9,11 +9,11 @@ Purpose of this project is to create a free opensourced and scriptable editor
 for edit content files.
 
 
-Features: 
+<b>Features:</b> <br>
  *Dat and Spr files viewers.<br>
  *Dat edition.<br>
  *compiling dat file.<br>
-TODO:
+<b>TODO:</b><br>
  *Changing sprites and dat order by drag and drop<br>
  *Compiling sprite file.<br>
  *loading more sprites files. <br>
