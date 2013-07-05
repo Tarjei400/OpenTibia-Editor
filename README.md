@@ -10,13 +10,13 @@ for edit content files.
 
 
 Features: 
- *Dat and Spr files viewers.
- *Dat edition.
- *compiling dat file.
+ *Dat and Spr files viewers.<br>
+ *Dat edition.<br>
+ *compiling dat file.<br>
 TODO:
- *Changing sprites and dat order by drag and drop
- *Compiling sprite file.
- *loading more sprites files. 
- *Adding new thingtypes to the pallete. 
- *Adding new sprites to sprites pallete.
+ *Changing sprites and dat order by drag and drop<br>
+ *Compiling sprite file.<br>
+ *loading more sprites files. <br>
+ *Adding new thingtypes to the pallete. <br>
+ *Adding new sprites to sprites pallete.<br>
  
